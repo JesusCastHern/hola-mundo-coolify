@@ -1,0 +1,12 @@
+{
+  "name": "hola-mundo-coolify",
+  "version": "1.0.0",
+  "description": "App de prueba para Coolify",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
